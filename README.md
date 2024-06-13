@@ -2,7 +2,7 @@
 
 I am a passionate B.Sc CSE graduate from IUT(Bangladesh), driven by a curiosity for automation and tech. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![4hbab's Stats](https://github-readme-stats.vercel.app/api?username=RakinRkz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![RakinRkz's Stats](https://github-readme-stats.vercel.app/api?username=RakinRkz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
