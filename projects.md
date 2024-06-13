@@ -1,4 +1,3 @@
-```markdown
 ## **Projects**
 
 - **2024**
@@ -29,4 +28,3 @@
   - [Traffic Surge](https://github.com/RakinRkz/Traffic-Surge) (C++, SFML)
     - A remake of the popular car dodging retro game of driving forward in a busy road with mixed traffic
     - Multiple tracks and cars to choose from, special invincible power, leader-board for high scores
-```
