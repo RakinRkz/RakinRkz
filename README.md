@@ -6,14 +6,13 @@ I am a passionate B.Sc CSE graduate from IUT(Bangladesh), driven by a curiosity 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science at IUT.
+- 🔭 I'm a fresh graduate in Computer Science and Engineering from IUT.
 - 🏢 I've done several internships to enrich my skills in the CS Domain.
 - 🌱 I’m currently learning NextJS to utilize in real-world sceanrios.
 - 🛫 I love to travel. 
 
 ## Tech Stack
-[!My Skills](https://skillicons.dev/icons?i=cpp,c,dart,js,html,css,react)]
-
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,dart,js,html,css,react)]
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
