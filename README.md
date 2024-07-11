@@ -12,7 +12,7 @@ I am a passionate B.Sc CSE graduate from IUT(Bangladesh), driven by a curiosity 
 - 🛫 I love to travel. 
 
 ## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=cpp,c,dart,js,html,css,react,cs,python,go,htmx)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,dart,js,html,css,react,cs,python,go,htmx,arduino,ros,docker)
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
