@@ -5,7 +5,7 @@ A geek, problem solver and explorer - driven by a curiosity for automation and t
 
 ## 🚀 About Me
 
-- 💼 Associate Software Engineer || @ [Cefalo](https://www.cefalo.com/en/)
+- 💼 Associate Software Engineer II @ [Cefalo](https://www.cefalo.com/en/)
 - 🎓 Bachelor of Science in Computer Science and Engineering from IUT.
 - 🏢 I've done several internships to enrich my skills in the CS Domain.
 - 🧠 Interests: Tech🖥️, Engineering⚙️, History📜, DIY🛠️
