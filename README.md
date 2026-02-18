@@ -5,13 +5,13 @@ A geek, problem solver and explorer - driven by a curiosity for automation and t
 
 ## 🚀 About Me
 
-- 💼 Associate Software Engineer @ [Cefalo](https://www.cefalo.com/en/)
+- 💼 Associate Software Engineer || @ [Cefalo](https://www.cefalo.com/en/)
 - 🎓 Bachelor of Science in Computer Science and Engineering from IUT.
 - 🏢 I've done several internships to enrich my skills in the CS Domain.
-- 🛫 I love to travel. 
+- 🧠 Interests: Tech🖥️, Engineering⚙️, History📜, DIY🛠️
 
 ## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,next,vue,js,css,react,python,docker)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,next,vue,js,react,python,docker)
 ## 💼 Currently focused at ASP.Net, NextJs, VueJs
 
 - 🚀 Full Stack Web Development, Windows services
